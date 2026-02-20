@@ -2,6 +2,8 @@ print("Hello, world!")
 
 print("This is a sample Python script.")
 
+
+# This function checks if a number is prime.
 def check_prime(name):
     if name < 2:
         return False
